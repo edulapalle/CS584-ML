@@ -1,2 +1,2 @@
 # CS584-ML
-This repository is for maintain CS584 ML project.
+This repository is to maintain CS584 ML project.
